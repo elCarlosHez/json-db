@@ -241,6 +241,7 @@
     },
     {
       "id": 1,
+      "name": "Holi a nadie",
       "title": "React desde 1000",
       "img": "https://images.pexels.com/photos/21067/pexels-photo.jpg",
       "description": "Oh yea, whatever",
@@ -248,6 +249,7 @@
     },
     {
       "id": 2,
+      "name": "Holi a la mitad",
       "title": "Test",
       "img": "https://images.pexels.com/photos/2737393/pexels-photo-2737393.jpeg",
       "description": "Hola mundo"
